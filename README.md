@@ -292,5 +292,5 @@ En recherche d'alternance SOC — septembre 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alberick--mahoussi-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/alberick-mahoussi)
 [![Email](https://img.shields.io/badge/Email-alberick.mahoussi%40ecole2600.com-EA4335?style=flat-square&logo=gmail)](mailto:alberick.mahoussi@ecole2600.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%40huen992-212C42?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/huen992)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%40huen992-212C42?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/huen922)
 [![Root--Me](https://img.shields.io/badge/Root--Me-%40huen992-343434?style=flat-square)](https://www.root-me.org/huen922?lang=fr)
